@@ -25,8 +25,8 @@
 </form>
 <?php
 // DB connection info
-$host = "ktyrn0yslp";
-$user = "admin99";
+$host = "tcp:ktyrn0yslp.database.windows.net,1433";
+$user = "admin99@ktyrn0yslp";
 $pwd = "~Photoshop2~";
 $db = "registration";
 // Connect to database.
