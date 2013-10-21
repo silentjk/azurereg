@@ -25,7 +25,7 @@
 </form>
 <?php
 // DB connection info
-$host = "localhost\sqlexpress";
+$host = "ktyrn0yslp";
 $user = "admin99";
 $pwd = "~Photoshop2~";
 $db = "registration";
