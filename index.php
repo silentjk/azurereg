@@ -27,7 +27,7 @@
 // DB connection info
 $host = "tcp:ktyrn0yslp.database.windows.net,1433";
 $user = "admin99@ktyrn0yslp";
-$pwd = "~Photoshop2~";
+$pwd = "~nakakatokwayungpassword1234~";
 $db = "registration";
 // Connect to database.
 try {
